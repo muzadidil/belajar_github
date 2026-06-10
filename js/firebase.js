@@ -9,13 +9,13 @@
  *     (Project Settings -> Your apps -> Web app -> Firebase SDK config)
  */
 const firebaseConfig = {
-  apiKey: "GANTI_APIKEY",
-  authDomain: "GANTI.firebaseapp.com",
-  databaseURL: "https://GANTI-default-rtdb.firebaseio.com",
-  projectId: "GANTI",
-  storageBucket: "GANTI.appspot.com",
-  messagingSenderId: "GANTI",
-  appId: "GANTI",
+  apiKey: "AIzaSyCmeYP511Qhf_zZiZ-RHt47v2J1vWkOvew",
+  authDomain: "belajar-github.firebaseapp.com",
+  databaseURL: "https://belajar-github-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "belajar-github",
+  storageBucket: "belajar-github.firebasestorage.app",
+  messagingSenderId: "688507298493",
+  appId: "1:688507298493:web:8387cdf3f9b2916102cdd4",
 };
 
 const Storage = {
